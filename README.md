@@ -4,8 +4,8 @@
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://www.notion.so/Dashboard-27a8baf17ffa4569827fc96d8ca72fc6">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation">
+<a href="https://documenter.getpostman.com/view/4149923/Uz5NkDdK">
+    <img alt="API Documentation" src="https://img.shields.io/badge/Documentation-API-blue">
 </a>
 <br/><br/>
 </p>
